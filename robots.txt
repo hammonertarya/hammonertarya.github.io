@@ -1,0 +1,6 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://hammonertarya.github.io/hammonertarya_github_io_zp533_12.txt
+Sitemap: https://hammonertarya.github.io/hammonertarya_github_io_zp533_21.txt
+Sitemap: https://hammonertarya.github.io/hammonertarya_github_io_zp533_4.txt
